@@ -1,0 +1,3 @@
+{"Name":"Myat Aung","Address":"Shwebo","Program":"My program","Year":"5","Fee":"22300.00"}
+{"Name":"Myat fg","Address":"Yangon","Program":"Hello Myanmar","Year":"4","Fee":"4350.00"}
+{"Name":"Aung Htun","Address":"Mandalay","Program":"Summer vacation","Year":"4","Fee":"23500.00"}

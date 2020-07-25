@@ -1,0 +1,4 @@
+{"Name":"Mg Aye","Address":"Yangon","School":"BEHS 3","Pay":"4500.00"}
+{"Name":"Mg Mg","Address":"Mandalay","School":"BEHS1","Pay":"3400.00"}
+{"Name":"Thein Htun","Address":"Mawlamyine","School":"BEHS4","Pay":"25000.00"}
+{"Name":"Kyaw Kyaaw","Address":"Mandalay","School":"BEHS 3","Pay":"60000.00"}
